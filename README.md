@@ -1,4 +1,3 @@
-# vedema.github.io
+# aqsa riaz.github.io
 
-# Week 0 setup completed by Vivian Edema
-
+# Week 0 setup completed by aqsa riaz
