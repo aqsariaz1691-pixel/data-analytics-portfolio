@@ -1,2 +1,4 @@
-# data-analytics-portfolio
-my data analytic projects
+# vedema.github.io
+
+# Week 0 setup completed by Vivian Edema
+
